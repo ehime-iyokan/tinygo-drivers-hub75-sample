@@ -54,8 +54,8 @@ LAT/STB | マイコンボード:D1
 OE | マイコンボード:D2
 GND | マイコンボード:GND
 
-![Pin layout diagram](.\images\pin_layout.png)
+![Pin layout diagram](./images/pin_layout.png)
 
 ## 動作結果
 
-![Result](.\images\result.png)
+![Result](./images/result.png)
